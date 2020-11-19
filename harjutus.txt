@@ -1,1 +1,3 @@
 GitHub on avatud lähtekoodiga versiooni juhtimissüsteem. Seda kasutavad inimesed programmeerimiseks ja failide/projektide jagamiseks.
+Mina saan GitHubi edaspidi kasutada kooli projektide jaoks. Teistega saab kergelt jagada faile rühma töödeks.
+GitHub asutati 2008 aastal Tom Preston-Werner, Chris Wanstrath, Scott Chacon ja P. J. Hyett poolt.
