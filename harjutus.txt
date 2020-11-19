@@ -1,1 +1,2 @@
 GitHub on avatud lähtekoodiga versiooni juhtimissüsteem. Seda kasutavad inimesed programmeerimiseks ja failide/projektide jagamiseks.
+Mina saan GitHubi edaspidi kasutada kooli projektide jaoks. Teistega saab kergelt jagada faile rühma töödeks.
